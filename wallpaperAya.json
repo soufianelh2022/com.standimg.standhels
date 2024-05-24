@@ -1,0 +1,44 @@
+{
+  "appRedirect": {
+    "status"      : false,
+    "redirectURL" : ""
+  },
+  
+ "AdsController": {
+      
+    "BannerNetwork"           : "huawei",
+    "InterstitialNetwork"     : "ironsource",
+    "NativeNetwork"           : "huawei",
+    "OpenAdNetwork"           : "yandex",
+   
+    "IntervalClick"           : 1,
+
+    "Ironsource_appid"        : "85460dcd",
+    
+    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_OpenAd"            : "ca-app-pub-3940256099942544/9257395921",
+    
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_Native"         : "d5a67a7b679c9a38",
+    "Applovin_OpenAd"         : "d5a67a7b679c9a38",
+        
+    "Yandex_Banner"           : "demo-banner-yandex",
+    "Yandex_InterstitialAd"   : "demo-interstitial-yandex",
+    "Yandex_Native"           : "demo-native-app-yandex",
+    "Yandex_OpenAd"           : "demo-appopenad-yandex",
+    
+    "Huawei_Banner"           : "testw6vs28auh3",
+    "Huawei_InterstitialAd"   : "testb4znbuh3n2",
+    "Huawei_Native"           : "testy63txaom86",
+    "Huawei_RewardAd"         : "testx9dtjwj8hp",
+    
+    "Unity_GameID"            : "4076527",
+    "Unity_Banner"            : "BannerAd",
+    "Unity_InterstitialAd"    : "InterstitialAd",
+    "Unity_RewardAd"          : "rewardedVideo"
+
+  }
+}
