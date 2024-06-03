@@ -6,12 +6,12 @@
   
  "AdsController": {
       
-    "BannerNetwork"           : "huawei",
-    "InterstitialNetwork"     : "ironsource",
-    "NativeNetwork"           : "huawei",
+    "BannerNetwork"           : "yandex",
+    "InterstitialNetwork"     : "yandex",
+    "NativeNetwork"           : "yandex",
     "OpenAdNetwork"           : "yandex",
    
-    "IntervalClick"           : 1,
+    "IntervalClick"           : 2,
 
     "Ironsource_appid"        : "85460dcd",
     
@@ -25,10 +25,10 @@
     "Applovin_Native"         : "d5a67a7b679c9a38",
     "Applovin_OpenAd"         : "d5a67a7b679c9a38",
         
-    "Yandex_Banner"           : "demo-banner-yandex",
-    "Yandex_InterstitialAd"   : "demo-interstitial-yandex",
-    "Yandex_Native"           : "demo-native-app-yandex",
-    "Yandex_OpenAd"           : "demo-appopenad-yandex",
+    "Yandex_Banner"           : "R-M-8780810-51",
+    "Yandex_InterstitialAd"   : "R-M-8780810-3",
+    "Yandex_Native"           : "R-M-8780810-2",
+    "Yandex_OpenAd"           : "R-M-8780810-5",
     
     "Huawei_Banner"           : "testw6vs28auh3",
     "Huawei_InterstitialAd"   : "testb4znbuh3n2",
